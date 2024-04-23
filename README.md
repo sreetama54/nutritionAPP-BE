@@ -40,3 +40,5 @@ You should receive the following in the command line:
 Successfully connected to MongoDB
 Now listening on port 3000
 ```
+
+This App is is simple game for baby and youg kids focused in learning  basic nutrition.
